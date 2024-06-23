@@ -13,3 +13,5 @@ rand_pass() {
 }
 # Call the function to generate a password
 rand_pass
+
+#comment
